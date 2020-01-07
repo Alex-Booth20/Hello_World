@@ -1,7 +1,9 @@
 <html>
   <head> 
    <!-- Title Page --> 
-   <a href="Main Page"> Click this to return to home </a>
+
+   <a href="Index.html"> Click this to return to home </a>
+
 <h1> Plants </h1>
    
   </head>
