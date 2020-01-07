@@ -1,21 +1,19 @@
 h1 {
   text-align: center;
-  text-decoration: none;
-  font-family: fantasy;
-  font-size: 200 px;
+  font-size: 200px;
   
 }
 
 img {
-   border: 10 px solid #ddd;
-  border-radius: 4 px;
-  padding: 5 px;
-  width: 150 px;
+   border: 10px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 150px;
 }
 
 p {
   text-align: center;
   text-decoration: none;
   font-family: fantasy;
-  font-size: 120 px;
+  font-size: 120px;
 }
