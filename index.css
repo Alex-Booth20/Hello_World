@@ -1,21 +1,21 @@
 h1 {
   text-align: center;
-  font-size: 175px;
+  font-size: 70px;
 }
 
 img {
   border: 10px solid #ddd;
   padding: 5px;
-  align: middle;
+  align-items: center
 }
 
 h2 {
   text-decoration: none;
-  font-size: 75px; 
+  font-size: 40px; 
   text-align: left;
 }
 
 h3 {
-  font-size: 45px; 
+  font-size: 30px; 
   text-align: left;
 }
