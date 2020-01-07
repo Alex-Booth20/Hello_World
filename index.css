@@ -1,7 +1,15 @@
+h1 {
+  color: black;
+  text-align: center;
+  text-decoration: none;
+  font-family: fantasy;
+  font-size: 40px;
+}
+
 p {
   color: black;
   text-align: center;
-  text-decoration: underline;
+  text-decoration: none;
   font-family: fantasy;
   font-size: 40px;
 }
