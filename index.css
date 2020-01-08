@@ -3,6 +3,10 @@ h1 {
   font-size: 70px;
 }
 
+body {
+    background-color: #D3D3D3;
+}
+
 img {
   border: 10px solid #ddd;
   padding: 5px;
