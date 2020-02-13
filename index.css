@@ -9,7 +9,9 @@ img {
   align-items: center
 }
 
-background: linear-gradient(110deg, #fdcd3b 60%, #ffed4b 60%);
+background { 
+linear-gradient(110deg, #fdcd3b 60%, #ffed4b 60%);
+}
 
 h2 {
   text-decoration: none;
